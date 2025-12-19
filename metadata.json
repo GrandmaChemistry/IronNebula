@@ -1,0 +1,5 @@
+{
+  "name": "铁原子电子云交互式教学平台",
+  "description": "一个基于Web的科学可视化工具，展示铁原子（Fe）的各能级电子云分布，支持3D交互、轨道叠加、等值面轮廓显示及AI智能辅助教学。",
+  "requestFramePermissions": []
+}
